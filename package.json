@@ -1,0 +1,24 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbuzz/express-demo.git"
+  },
+  "author": "Matyas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbuzz/express-demo/issues"
+  },
+  "homepage": "https://github.com/jsbuzz/express-demo#readme",
+  "dependencies": {
+    "blueimp-md5": "^2.3.1",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
